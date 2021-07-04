@@ -1,4 +1,5 @@
 print(111)
 print(111)
-def summ():
+def g():
     pass
+
